@@ -1,2 +1,2 @@
-# minathizwide7
+## About me
 My personal repository
